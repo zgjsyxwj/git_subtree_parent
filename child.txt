@@ -4,3 +4,6 @@ child 3rd
 child 4th
 child 5h
 child6
+child 7th
+child 8th
+child 9th
